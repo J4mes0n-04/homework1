@@ -1,5 +1,5 @@
 //
-// Created by Glazyrin Maksim
+// Created by glazyrin Maksim
 //
 package ru.geekbrains.lesson1;
 
